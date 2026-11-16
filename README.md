@@ -15,6 +15,7 @@ Whether an attack succeeded is decided by automatic checks on the plan and the f
 
 ## Documents
 
+- [docs/benchmark/](docs/benchmark/): the attack taxonomy and the benchmark (M1, draft under review)
 - [docs/presentations/](docs/presentations/): slide decks
 - [docs/experiments/](docs/experiments/): logged runs and attack attempts
 
